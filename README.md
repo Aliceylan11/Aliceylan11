@@ -51,5 +51,5 @@
 ### 📊 GitHub İstatistiklerim / Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Aliceylan11&show_icons=true&theme=radical&locale=tr" alt="Ali's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliceylan11&layout=compact&theme=radical&locale=tr" alt="Top Langs" />
 </p>
